@@ -1,0 +1,2 @@
+#!/bin/sh
+exec ltlsynt --algo=lar --aiger=both+ud+dc --tlsf "$@"

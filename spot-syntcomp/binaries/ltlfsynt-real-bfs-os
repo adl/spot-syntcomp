@@ -1,0 +1,2 @@
+#!/bin/sh
+exec ltlfsynt --realizability --trans=bfs --tlsf "$@"
